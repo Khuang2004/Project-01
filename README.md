@@ -4,7 +4,7 @@
 
 # Khuang2004
 
-# ## Project 01 – Changes Made and Point Breakdown
+# Project 01 – Changes made and everything I add to complete this first project.
 
 I used my original cave story from the first exercise and expanded it into a complete interactive fiction game.
 
